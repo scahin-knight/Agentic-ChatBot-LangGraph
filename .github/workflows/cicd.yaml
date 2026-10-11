@@ -19,7 +19,7 @@ permissions:
 
 env:
   DOCKER_USERNAME: sachin2008
-  IMAGE_NAME: agentic-chatbot
+  IMAGE_NAME: agentic-rag-chatbot
 
 jobs:
   # 1. CONTINUOUS INTEGRATION
